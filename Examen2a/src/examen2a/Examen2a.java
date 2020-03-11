@@ -13,11 +13,11 @@ public class Examen2a {
 
     /**
      * @param args the command line arguments
-     * sout con rojo + commit en la master
+     * sout con verde + commit en dev
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Rojo");
+        System.out.println("Verde");
     }
     
 }
